@@ -168,6 +168,7 @@ def test_user_module_docstring(self) - Test for the user.py module docstring
 def test_user_class_docstring(self) - Test for the User class docstring
 
 Authors
+
 Miriam Chiketa - Github / Twitter
 
 Wuhibeselassie Tamire Nigatu Wuhibeselassie - Github / Twitter
